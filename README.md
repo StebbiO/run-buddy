@@ -10,5 +10,6 @@ A website that offers fitness training services.
 ## Website
 https://stebbio.github.io/run-buddy/
 
-## Contribution
-Made with ❤️ by [Stefan Oddsson]
+## Made with ❤️ by Stefan Oddsson
+
+### ©️2019 Run Buddy, Inc
